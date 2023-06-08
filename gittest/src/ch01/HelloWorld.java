@@ -6,7 +6,6 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("깃 연동");
 		System.out.println("깃 연동2");
-		System.out.println("깃 연동4");
 	}
 
 }
